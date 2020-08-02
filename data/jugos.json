@@ -1,0 +1,61 @@
+{
+    "jugos" : [
+        {
+            "id": "1",
+            "nombre": "Fresa",
+            "descripcion": "Jugo de fresas frescas, no contiene azucar",
+            "precio": 3.99,
+            "image": "https://www.vidactual.com/reto/wp-content/uploads/2018/10/Jugo-de-fresa.jpg"
+        },
+        {
+            "id": "2",
+            "precio": 2.99,
+            "nombre": "Naranja",
+            "descripcion": "Jugo de naranjas frescas, no contiene azucar",
+            "image": "https://dam.cocinafacil.com.mx/wp-content/uploads/2020/01/jugo-de-naranja.jpg"
+
+        },
+        {
+            "id": "3",
+            "nombre": "Coco",
+            "precio": 4.99,
+            "descripcion": "Jugo de cocos, no contiene azucar",
+            "image": "https://unaricareceta.com/wp-content/uploads/2020/06/agua-de-coco.jpg"
+
+        },
+        {
+            "id": "4",
+            "nombre": "Kiwi",
+            "descripcion": "Jugo de kiwi frescos, no contiene azucar",
+            "precio": 5.99,
+            "image": "https://s1.eestatic.com/2015/02/27/cocinillas/Cocinillas_14258621_115818010_1024x576.jpg"
+
+        },
+        {
+            "id": "5",
+            "nombre": "Manzana",
+            "descripcion": "Jugo de manzanas frescas, no contiene azucar",
+            "precio": 2.99,
+            "image": "https://www.convivirpress.com/wp-content/uploads/2018/04/Sidra-de-manzana-casera.jpg"
+
+        },
+        {
+            "id": "6",
+            "nombre": "Uva",
+            "descripcion": "Jugo de uvas frescas, no contiene azucar",
+            "precio": 3.99,
+            "image": "https://selecciones.com.mx/wp-content/uploads/2017/10/JUVA-PORT00.jpg"
+
+        },
+        {
+            "id": "7",
+            "nombre": "Pera",
+            "descripcion": "Jugo de peras frescas, no contiene azucar",
+            "precio": 3.99,
+            "image": "https://unaricareceta.com/wp-content/uploads/2020/06/jugo-de-pera.jpg"
+
+        }
+
+
+    ]
+}
